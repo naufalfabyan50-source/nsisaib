@@ -1,0 +1,18 @@
+{
+  "name": "falz-topup",
+  "version": "2.0.0",
+  "description": "FALZ TopUp — Website Top Up Diamond Free Fire dengan backend Node.js, notifikasi Telegram real-time, verifikasi bukti pembayaran otomatis, dan penyimpanan data permanen lewat GitHub (siap deploy ke Vercel).",
+  "main": "server.js",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14"
+  }
+}

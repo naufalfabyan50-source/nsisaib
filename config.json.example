@@ -1,0 +1,17 @@
+{
+  "telegram_token": "ISI-TOKEN-BOT-DARI-BOTFATHER",
+  "telegram_id": "ISI-CHAT-ID-TUJUAN-NOTIFIKASI",
+  "ghp_token": "ISI-GITHUB-PERSONAL-ACCESS-TOKEN",
+  "qris_jpg": "ISI-URL-ATAU-PATH-GAMBAR-QRIS",
+
+  "admin_username": "admin",
+  "admin_password": "GANTI-INI-SEGERA",
+
+  "ghp_owner": "",
+  "ghp_repo": "",
+  "ghp_branch": "main",
+
+  "email_user": "",
+  "email_app_password": "",
+  "email_notify_to": ""
+}
